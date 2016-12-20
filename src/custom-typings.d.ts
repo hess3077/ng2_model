@@ -33,7 +33,7 @@
  */
 
 interface JQuery {
-    easyPieChart;
+  easyPieChart;
 }
 
 declare var GoogleMapsLoader:any;
